@@ -1,3 +1,3 @@
-# s3Blandine
+# s3nostradamus
 
-s3 Blandine 2
+s3 nostradamus
